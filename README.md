@@ -9,6 +9,6 @@ Naive Bayes is one of the most basic machine learning algorithms, and it has bee
 Although the results are not very well, this code gives an example to implement Naive Bayes algorithm into practical classification problems. 
 
 ## Usage
-To run the demo provided by the code, directly run the MATLAB script NBA_demo.m. If you want to use your won data, please prepare your data with the format required by the function run_classification.m.
+To run the demo provided by the code, directly run the MATLAB script NBA_demo.m. If you want to use your own data, please prepare your data with the format required by the function run_classification.m.
 
 
